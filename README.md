@@ -1,4 +1,4 @@
-# a2ainfrastructure-com
+# A2A Infrastructure
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-a2ainfrastructure-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://a2ainfrastructure.com/
+A2A Infrastructure provides AI compliance software for enterprises, offering a platform that monitors, audits, and controls AI agents across tools like ChatGPT, Claude, and Copilot. The solution ensures EU AI Act, NIST AI RMF, GDPR, and state regulations compliance through immutable audit trails, human‑in‑the‑loop oversight, and sandboxed execution. Founded by Joe Wee, the company targets regulated industries needing transparent AI governance.
+
+**Areas:** AI · Compliance · Enterprise · Governance · Infrastructure
+
+## A2A Infrastructure on APIs.io
+
+Everything profiled for A2A Infrastructure is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/a2ainfrastructure-com/](https://apis.io/providers/a2ainfrastructure-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [A2A Infrastructure API Rules](https://apis.io/rules/a2ainfrastructure-com/a2ainfrastructure-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [A2Ainfrastructure Com Authentication](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-authentication/)
+- [A2Ainfrastructure Com Domain Security](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-domain-security/)
+- [A2Ainfrastructure Com Trust Center](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [A2Ainfrastructure Com Plans Pricing](https://apis.io/plans/a2ainfrastructure-com/a2ainfrastructure-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://a2ainfrastructure.com/)
+- [Documentation](https://a2ainfrastructure.com/docs/)
+- [Getting started](https://a2ainfrastructure.com/quickstart/)
+- [API reference](https://a2ainfrastructure.com/docs/)
+- [Pricing](https://a2ainfrastructure.com/pricing)
+- [Blog](https://a2ainfrastructure.com/blog)
+- [Compliance](https://a2ainfrastructure.com/compliance)
+- [Terms of service](https://a2ainfrastructure.com/terms)
+- [Privacy policy](https://a2ainfrastructure.com/privacy)
+- [Status](https://status.a2ainfrastructure.com/)
+
+## API Evangelist rating
+
+**Kin Score 44.6** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 57.3 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 88.9 |
+
+**Agent readiness 13.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/a2ainfrastructure-com/](https://apis.io/providers/a2ainfrastructure-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for A2A Infrastructure: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/a2ainfrastructure-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
