@@ -66,7 +66,7 @@
 
 A2A Infrastructure provides AI compliance software for enterprises, offering a platform that monitors, audits, and controls AI agents across tools like ChatGPT, Claude, and Copilot. The solution ensures EU AI Act, NIST AI RMF, GDPR, and state regulations compliance through immutable audit trails, human‑in‑the‑loop oversight, and sandboxed execution. Founded by Joe Wee, the company targets regulated industries needing transparent AI governance.
 
-**Areas:** AI · Compliance · Enterprise · Governance · Infrastructure
+**Areas:** Artificial Intelligence · Compliance · Enterprise · Governance · Infrastructure
 
 ## A2A Infrastructure on APIs.io
 
@@ -75,6 +75,18 @@ Everything profiled for A2A Infrastructure is published on APIs.io rather than i
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [a2ainfrastructure-com-mcp.yml](https://apis.io/servers/a2ainfrastructure-com/a2ainfrastructure-com-mcp-yml/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [A2A Infrastructure Agentic Access](https://apis.io/agentic-access/a2ainfrastructure-com/a2ainfrastructure-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -86,15 +98,21 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [A2Ainfrastructure Com Authentication](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-authentication/)
-- [A2Ainfrastructure Com Domain Security](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-domain-security/)
-- [A2Ainfrastructure Com Trust Center](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-trust-center/)
+- [A2A Infrastructure Authentication](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-authentication/)
+- [A2A Infrastructure Domain Security](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-domain-security/)
+- [A2A Infrastructure Trust Center](https://apis.io/security/a2ainfrastructure-com/a2ainfrastructure-com-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [A2A Infrastructure Scopes](https://apis.io/scopes/a2ainfrastructure-com/a2ainfrastructure-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [A2Ainfrastructure Com Plans Pricing](https://apis.io/plans/a2ainfrastructure-com/a2ainfrastructure-com-plans-pricing/)
+- [A2A Infrastructure Plans Pricing](https://apis.io/plans/a2ainfrastructure-com/a2ainfrastructure-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -113,33 +131,33 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 44.6** — developing · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 41.9** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
-| Contract quality | 0.0 |
-| Contract governance | 57.3 |
-| Operational transparency | 15.8 |
-| Developer ergonomics | 56.4 |
-| Access clarity | 88.9 |
+| Discoverability | 55.4 |
+| Contract quality | 6.0 |
+| Contract governance | 29.5 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 51.8 |
+| Access clarity | 87.2 |
 
-**Agent readiness 13.2** — agent-aware
+**Agent readiness 6.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | — |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
-| Well Known Catalog | yes |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | flavored (partial credit) |
 | Dry Run Mode | — |
@@ -149,8 +167,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 30.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/a2ainfrastructure-com/](https://apis.io/providers/a2ainfrastructure-com/).
 
